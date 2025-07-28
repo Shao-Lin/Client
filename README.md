@@ -1,8 +1,4 @@
-# Работа с формами и аутентификацией
+Запуск проекта 
 
-Стек технологий:
-- React + TypeScript
-- React Router v6 
-- State-менеджер: любой на выбор Redux Toolkit 
-- Сборщик проекта: любой на выбор Vite 
-- UI-фреймворк: Ant Design 
+- npm install
+- npm run dev
